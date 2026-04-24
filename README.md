@@ -6,7 +6,7 @@ Upload research paper (PDF)
 Extract text using PyMuPDF
 Generate structured summary using LLM (Groq API - LLaMA 3)
 RF-focused analysis (Gain, S11, Bandwidth, Radiation)
-Clean UI using Streamlit 
+Clean UI using Streamlit
 Downloadable output
 🏗️ Architecture
 See architecture diagram below:
