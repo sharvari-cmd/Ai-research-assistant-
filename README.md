@@ -49,5 +49,5 @@ https://drive.google.com/file/d/1encU9aMi3axmI6CwBVRyPgsHumy_rcvw/view?usp=shari
 ---
 
 ## 👨‍💻 Author
-Safalya Mohod,
-Sharvari Kinkar 
+Sharvari Kinkar, Safalya Mohod
+
